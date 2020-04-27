@@ -1,0 +1,1 @@
+insert into course(Id,name) values(10001L,'Spring Boot in 100 Steps.');
